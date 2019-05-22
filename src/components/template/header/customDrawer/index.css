@@ -1,0 +1,20 @@
+.MuiPaper-root-10.MuiPaper-elevation0-12.MuiDrawer-paper-101.MuiDrawer-paperAnchorLeft-102.MuiDrawer-paperAnchorDockedLeft-106{
+    width: 20%
+}
+.closeButton {
+    float: right;
+    color: #e4b9b9 !important;
+    font-size: 30px;
+    right: 10px;
+}
+.iconListItem{
+    font-size: 20px;
+    color: aliceblue !important;
+}
+.titleListItem{
+    font-size: 20px;
+    color: aliceblue; 
+}
+.drawerMenu{
+    width: 80%
+}
