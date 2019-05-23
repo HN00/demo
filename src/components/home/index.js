@@ -40,6 +40,7 @@ class Home extends React.Component {
               direction="row"
             >
               <Grid sm={3} style={{marginTop:300}}>
+              sjadgsakjhdakjshdkjáhdkj
                 
               </Grid>
             </Grid>
